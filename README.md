@@ -1,2 +1,2 @@
 # first-repo
-This is my forst repositiry in GitHub
+This is my forst repository in GitHub
